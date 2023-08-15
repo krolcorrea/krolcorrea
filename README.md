@@ -3,7 +3,8 @@
 
 ### **_Um pouco sobre mim:_**
 
-- 🔭 No momento sou geografa e também faço freelas de garçonete. Estou estudando no bootcamp imersivo da Generation Brasil, ao concluir saio certificada como pessoa Desenvolvedora FullStack JAVA Jr. Estou construindo projetos e estudando para ingressar no mercado de trabalho da tecnologia
+- 🔭 Sou geografa, faço freelas de garçonete e sou certificada no bootcamp imersivo da Generation Brasil, como pessoa Desenvolvedora FullStack JAVA Jr.
+Estou construindo projetos e estudando para ingressar no mercado de trabalho da tecnologia.
 - 🌱 Estou estudando as linguagens de programação **JAVA, Javascript e Typescript**, a de marcação **HTML** e a linguagem de estilo **CSS**. Já utilizo o framework back-end **Spring Boot** e o banco de dados relacional **MySQL**, estou aprendendo a utilizar a biblioteca front-end **React** junto com a de componetes **Material UI**. Sou também uma curiosa sobre as linguagens de programação **Pythom e C#**.
 - 😄 Pronomes: Ela/Elu 
  ##
